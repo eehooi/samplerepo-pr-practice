@@ -7,3 +7,6 @@ This repo can be used to practice creating PRs
 
 # Edit
 This is to test edit.
+
+# Summary
+This is the sample summary.
